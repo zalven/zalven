@@ -1,7 +1,6 @@
 
 # [![waylon walker header](https://raw.githubusercontent.com/zalven/zalven/main/photo-cover.png)](https://twitter.com/dayaoski)
 
-### Hello World, I'm Anna  👋
 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
@@ -47,9 +46,9 @@
 --- 
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zalven&show_icons=true&theme=slateorange   )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zalven&show_icons=true&theme=prussian   )
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zalven&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zalven&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://holistic-developer.com/
 [youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
