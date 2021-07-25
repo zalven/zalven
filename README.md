@@ -61,5 +61,5 @@
 - [Is a coding Bootcamp worth it for experienced programmers?](https://dev.to/holistic_developer/is-a-coding-bootcamp-worth-it-for-experienced-programmers-2jjj)
 <!-- BLOG-POST-LIST:END -->
 
-# [![waylon walker header](https://raw.githubusercontent.com/zalven/zalven/main/photo-cover.png)](https://twitter.com/dayaoski)
+# [![waylon walker header](https://raw.githubusercontent.com/zalven/zalven/main/footer-cover.png)](https://twitter.com/dayaoski)
 
