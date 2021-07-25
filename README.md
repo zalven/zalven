@@ -2,7 +2,7 @@
 # [![waylon walker header](https://raw.githubusercontent.com/zalven/zalven/main/photo-cover.png)](https://twitter.com/dayaoski)
 
 
- <img align="right" alt="GIF" src="https://64.media.tumblr.com/e593ab0589d5f1b389e4dfbcce2bce20/tumblr_mtp8f9lb591rgpyeqo1_400.gifv" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/zalven/zalven/main/tumblr_ncx3k4PHUh1tk2r8jo8_500.gif"  />
 
 
 ## I'm a Wife, Mother, Developer, Creator, and Mentor!!
