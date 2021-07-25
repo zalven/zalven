@@ -2,7 +2,7 @@
 # [![waylon walker header](https://raw.githubusercontent.com/zalven/zalven/main/photo-cover.png)](https://twitter.com/dayaoski)
 
 
- <!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/zalven/zalven/main/tumblr_ncx3k4PHUh1tk2r8jo8_500.gif"  /> -->
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/zalven/zalven/main/tumblr_ncx3k4PHUh1tk2r8jo8_500.gif" width = "200px" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+i'm+Zalven+Dayao;I+love+problem+solving+and+creative+thinking!;I+am+a+team+player;I+want+to+help+people!&center=true&width=560&height=50">
@@ -30,7 +30,7 @@ s
 
 ### 👨‍💻 Programming languages
   <br />
-  <p>
+  <p align="center">
       <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aassembly"><img alt="MIPS Assembly" src="https://img.shields.io/badge/Assembly%20-%23525252.svg?logo=mega&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
@@ -60,7 +60,7 @@ s
 
 ### 🧰 Frameworks and libraries
   <br />
-  <p>
+  <p align="center">
       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
       <a href="#"><img alt="Cordova" src="https://img.shields.io/badge/-Cordova-E8E8E8?logo=apache-cordova&logoColor=black"></a>
       <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron%20-%2320232e.svg?logo=electron&logoColor=white"></a>
@@ -85,7 +85,7 @@ s
 
 ### 🗄️ Databases and cloud hosting
   <br />
-  <p>
+  <p align="center">
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
       <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
@@ -100,7 +100,7 @@ s
 
 ### 💻 Software and tools
   <br />
-  <p>
+  <p align="center">
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
       <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
