@@ -2,7 +2,7 @@
 # [![waylon walker header](https://raw.githubusercontent.com/zalven/zalven/main/photo-cover.png)](https://twitter.com/dayaoski)
 
 
- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/zalven/zalven/main/tumblr_ncx3k4PHUh1tk2r8jo8_500.gif" width = "200px" />
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+i'm+Zalven+Dayao;I+love+problem+solving+and+creative+thinking!;I+am+a+team+player;I+want+to+help+people!&center=true&width=560&height=50">
@@ -156,3 +156,6 @@ s
 
 # [![waylon walker header](https://raw.githubusercontent.com/zalven/zalven/main/footer-cover.png)](https://twitter.com/dayaoski)
 
+<p align="center">
+ <img  alt="GIF" src="https://raw.githubusercontent.com/zalven/zalven/main/tumblr_ncx3k4PHUh1tk2r8jo8_500.gif" width = "100px" />
+</p> 
