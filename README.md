@@ -5,7 +5,7 @@
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/zalven/zalven/main/tumblr_ncx3k4PHUh1tk2r8jo8_500.gif"  />
 
 
-## I'm a Computer Science Student, Developer, Editor, and a sssSon!!
+## I'm a Computer Science Student, Software Engineer, Editor, and a Freelancer!!
 - 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently learning Machine learning in python 
 - 👯 I’m looking to collaborate on open source 
@@ -50,6 +50,7 @@
   - Pygame 
   - Pytesseract  
   - RPG maker
+  - Ruby on Rails
   <!-- - <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" /> 
     <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
     <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" /> 
