@@ -40,11 +40,13 @@
 <br />
 ---
 
-  <img  alt="Zalven's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zalven&show_icons=true&hide_border=true&theme=slateorange" />
 
 --- 
 <br />
-<img  alt="Zalven's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zalven&theme=slateorange" />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zalven&show_icons=true&theme=slateorange   )
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zalven&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://holistic-developer.com/
 [youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
